@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://fenke.github.io',
                 'git_url': 'https://github.com/fenke/addroot',
                 'lib_path': 'addroot'},
-  'syms': { 'addroot.addroot': {'addroot.addroot.foo': ('addroot.html#foo', 'addroot/addroot.py')},
-            'addroot.core': {'addroot.core.foo': ('core.html#foo', 'addroot/core.py')}}}
+  'syms': {'addroot.addroot': {}, 'addroot.core': {'addroot.core.foo': ('core.html#foo', 'addroot/core.py')}}}
