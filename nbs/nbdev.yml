@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "addroot"
+  site-url: "https://fenke.github.io/addroot"
+  description: "add a project's root to the python import path"
+  repo-branch: main
+  repo-url: "https://github.com/fenke/addroot"
